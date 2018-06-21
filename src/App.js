@@ -1,13 +1,11 @@
 import React, { Component } from 'react';
 
-class App extends Component {
-  render() {
+const App = () =>{
     return (
       <div>
-        <h1 style={{textAlign:'center'}}>THIS IS THE NEW PERSONAL LOANS PORTAL</h1>
+        <h1 style={{textAlign:'center'}}>CREATE YOUR APP HERE</h1>
       </div>
     );
-  }
 }
 
 export default App;

@@ -1,0 +1,1 @@
+// Create constants to ensure that no typos are made with action types
